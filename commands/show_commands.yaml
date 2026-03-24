@@ -1,0 +1,4 @@
+show_commands:
+  - show version
+  - show ip interface brief
+  - show ip route 
