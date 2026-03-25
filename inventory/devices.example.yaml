@@ -1,0 +1,7 @@
+devices:
+  - name: router
+    host: sandbox-iosxe-latest-1.cisco.com
+    username: developer
+    password: C1sco12345
+    device_type: cisco_ios
+    port: 22
